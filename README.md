@@ -33,7 +33,7 @@ streamlit run clinical_metrics_dashboard_widgets.py
 
 ## Files
 
-- `clinical_metrics_dashboard.py` — the application
+- `clinical_metrics_dashboard_widgets.py` — the application
 - `patients_data_with_alerts.xlsx` — the dataset
 - `requirements.txt` — dependencies (streamlit, pandas, altair, openpyxl)
 
